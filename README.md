@@ -2,7 +2,8 @@
 
 This small project is for learning HTML and CSS by building a simple, responsive Car rental website.
 
-![image](![image](https://github.com/user-attachments/assets/cd7ea025-693e-4693-ad4c-665f7ab8c3db))
+![image](https://github.com/user-attachments/assets/0c86a511-ac55-42b0-a703-825b5b378fb9)
+
 
 
 🌐 **Live Demo:** [Click here to view the website](https://dinhvuduc.github.io/car-rental/)  
